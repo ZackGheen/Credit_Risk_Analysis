@@ -5,7 +5,7 @@ an analysis of credit card loan applications using Supervised Machine Learning p
 ## **Resources**
 ----------------
 
-* Data: LoanStats_2019Q1.csv - a dataset from **LendingClub** a peeer-to-peer lending services company
+* **Data**: LoanStats_2019Q1.csv - a dataset from **LendingClub** a peeer-to-peer lending services company
 * **Software**: Jupyter Notebook 6.4.8 Numpy and Pandas libraries, as well as imbalanced-learn, and scikit-learn
 
 ## **Overview**
